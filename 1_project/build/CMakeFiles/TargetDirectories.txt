@@ -1,0 +1,3 @@
+/home/bigfly/桌面/1_project/build/CMakeFiles/my_cmake_project.dir
+/home/bigfly/桌面/1_project/build/CMakeFiles/edit_cache.dir
+/home/bigfly/桌面/1_project/build/CMakeFiles/rebuild_cache.dir
